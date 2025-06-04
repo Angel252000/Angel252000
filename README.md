@@ -1,4 +1,3 @@
-# 👾✨ ¡Hey! Soy Ángel Amaya ✨👾
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+¡Bienvenid@+a+mi+GitHub!;💻+Soy+Ángel,+futuro+Ingeniero+en+Sistemas;🎮+Amante+del+Pixel+Art+y+la+programación;🚀+¡Explora+mi+universo+retro!&center=true&size=30&font=Press+Start+2P&color=00FFF7&background=00000000">
@@ -8,13 +7,6 @@
   <img src="https://media.giphy.com/media/dsKnRuALlWsZG/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120"/>
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-</p>
-
-<p align="center">
-  <b>⚡ ¡Bienvenid@ a mi zona de código retro! ⚡</b><br/><br/>
-  Soy <b>Ángel Amaya</b>, estudiante de <b>Ingeniería en Sistemas</b> con pasión por el código creativo, el diseño pixelado y los mundos virtuales.<br/>
-  Fusiono la tecnología con el arte digital para crear experiencias únicas. <br/><br/>
-  <b>🎨 Códigos llenos de color, energía y estética geek 🎨</b>
 </p>
 
 <p align="center">
