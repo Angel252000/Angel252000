@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy angel amaya
 
-<!--
-**Angel252000/Angel252000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas  
+💻 Me gusta programar en Python, JavaScript y C#  
+🚀 Aprendiendo sobre APIs, bases de datos y desarrollo móvil  
+📍 Costa Rica
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+- 🔧 HTML, CSS, JavaScript
+- 📱 React Native, Expo
+- 🐍 Python, FastAPI
+- 💾 MySQL, PostgreSQL
+
+---
+
+## 📈 Mi actividad reciente
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+
+## 📊 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Estoy aprendiendo
+- Docker 🐳
+- Testing con Pytest 🧪
+- Diseño UI con Figma 🎨
