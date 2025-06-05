@@ -6,6 +6,14 @@
 - 🌱 Actualmente aprendiendo más sobre testing, microservicios y UI/UX  
 
 ---
+### 🔄 Mi flujo de trabajo
+
+- Planificación en Figma
+- Desarrollo en VSCode con Git y GitHub
+- API con FastAPI y documentación con Swagger
+- Testing antes de deploy
+- CI/CD con GitHub Actions (en proceso)
+
 
 ### 🔧 Tecnologías y herramientas
 
