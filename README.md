@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -8,43 +9,47 @@
     body {
       margin: 0;
       padding: 0;
-      background-color: #0f0f0f;
+      background-color: #000000;
       color: #00ff00;
       font-family: 'Courier New', Courier, monospace;
-      font-size: 1.1rem;
+      font-size: 1rem;
       display: flex;
       align-items: center;
       justify-content: center;
       height: 100vh;
+      overflow: hidden;
     }
     .terminal {
-      width: 90%;
-      max-width: 800px;
-      background-color: #000000;
+      width: 95%;
+      max-width: 900px;
+      height: 90vh;
+      background-color: #101010;
       border: 2px solid #00ff00;
       padding: 2rem;
-      box-shadow: 0 0 10px #00ff00;
+      box-shadow: 0 0 20px #00ff00;
       overflow-y: auto;
+      border-radius: 8px;
     }
     .line {
       display: block;
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.7rem;
+      white-space: pre-wrap;
     }
     .prompt::before {
       content: 'angel252000@github:~$ ';
-      color: #0f0;
+      color: #00ff00;
     }
     .blinking-cursor {
       display: inline-block;
       width: 10px;
+      height: 1.2rem;
       background-color: #00ff00;
-      animation: blink 1s step-start 0s infinite;
-      margin-left: 5px;
+      animation: blink 1s step-start infinite;
+      margin-left: 4px;
+      vertical-align: bottom;
     }
     @keyframes blink {
-      50% {
-        opacity: 0;
-      }
+      50% { opacity: 0; }
     }
   </style>
 </head>
@@ -55,15 +60,28 @@
     const terminal = document.getElementById('terminal');
     const commands = [
       "whoami",
-      "👨‍💻 Ángel Amaya — Ing. en Sistemas",
-      "skills",
-      "🛠 React Native, FastAPI, Python, MySQL",
-      "projects --top",
-      "🚀 app-musica\n🧭 gestor-horas-beca\n🔐 api-auth-fastapi",
+      "👨‍💻 Ángel Amaya — Estudiante de Ingeniería en Sistemas en UNADECA",
+
+      "echo \"🎯 Pasiones\"",
+      "💡 Me encanta programar, diseñar interfaces intuitivas y explorar APIs modernas.",
+
+      "echo \"🧰 Tecnologías\"",
+      "🚀 React Native, FastAPI, Python, MySQL, Figma, Git, GitHub",
+
+      "projects list",
+      "📱 MusicApp - Reproductor moderno con autenticación y modo oscuro",
+      "📊 HorasBeca - Gestor con control de asistencia y pagos automáticos",
+      "🔐 AuthAPI - Microservicio con JWT y OAuth",
+
       "stats",
-      "📊 34 commits este mes\n🔥 7 días de actividad continua",
+      "📈 240+ commits en 2024 | 18 repos públicos | 8 proyectos colaborativos",
+
+      "social",
+      "🔗 LinkedIn: linkedin.com/in/angelamaya",
+      "📧 Correo: angelamaya@email.com",
+
       "exit",
-      "Hasta luego, ¡sigue programando!"
+      "👋 ¡Gracias por visitar mi terminal! ¡Nos vemos en el próximo commit!"
     ];
 
     let i = 0;
@@ -78,10 +96,10 @@
       if (isCommand) line.classList.add('prompt');
       terminal.appendChild(line);
 
-      const currentCommand = commands[i];
+      const current = commands[i];
       let interval = setInterval(() => {
-        if (char < currentCommand.length) {
-          line.textContent += currentCommand[char++];
+        if (char < current.length) {
+          line.textContent += current[char++];
         } else {
           clearInterval(interval);
           line.innerHTML += '<span class="blinking-cursor"></span>';
@@ -91,9 +109,9 @@
           setTimeout(() => {
             line.querySelector('.blinking-cursor').remove();
             typeLine();
-          }, 500);
+          }, 600);
         }
-      }, 40);
+      }, 35);
     }
 
     typeLine();
