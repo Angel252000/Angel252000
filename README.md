@@ -1,21 +1,19 @@
-<h1 align="center">👨‍💻 Ángel Amaya</h1>
+<h1 align="center">✨ Ángel Amaya ✨</h1>
 
-<p align="center">
-  Estudiante de Ingeniería en Sistemas en <strong>UNADECA</strong> | Amante del código limpio, las APIs modernas y las interfaces elegantes.
-</p>
+<p align="center">👨‍💻 Estudiante de Ingeniería en Sistemas en UNADECA</p>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🚀 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Sistemas en UNADECA  
-- 🧠 Apasionado por la programación, el diseño de interfaces y las APIs  
-- ⚙️ Herramientas favoritas: React Native, Python, FastAPI  
-- 🌱 Actualmente aprendiendo más sobre testing, microservicios y UI/UX  
+- 💡 Apasionado por crear soluciones prácticas con código  
+- ⚙️ Interesado en desarrollo móvil, APIs y diseño de interfaces  
+- 🌱 Aprendiendo testing, microservicios y experiencia de usuario  
+- 🎯 Objetivo: ser un desarrollador que une funcionalidad y estética
 
 ---
 
-### 🔧 Tecnologías y herramientas
+### 🛠️ Tecnologías que uso
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,mysql,figma,github,git" />
@@ -23,51 +21,16 @@
 
 ---
 
-### ✨ Proyectos Destacados
-
-- 🔊 [MusicApp](https://github.com/Angel252000/MusicApp): Reproductor moderno con autenticación, modo oscuro y diseño atractivo.
-- ⏱ [HorasBeca](https://github.com/Angel252000/HorasBeca): Sistema de gestión de becas con control de horas, pagos automáticos y roles personalizados.
-- 🔐 [AuthAPI](https://github.com/Angel252000/AuthAPI): Microservicio para autenticación JWT y OAuth2.
-
----
-
-### 🏆 Trofeos
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angel252000&theme=matrix&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angel252000&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel252000&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-### 🚀 Mis estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel252000&show_icons=true&theme=radical&hide=issues" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel252000&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-### 📈 GitHub Badges
-
-![Profile views](https://komarev.com/ghpvc/?username=Angel252000&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/Angel252000?style=social)
-
----
-
-### 💬 Plan de mejora
-
-| Habilidad              | Nivel actual | Meta                           |
-|------------------------|--------------|--------------------------------|
-| React Native           | 🟢 Intermedio | 🟢 Avanzado con animaciones     |
-| FastAPI                | 🟢 Intermedio | 🟢 Microservicios completos     |
-| UI/UX con Figma        | 🟡 Básico     | 🟢 Prototipos interactivos      |
-| Git y GitHub           | 🟢 Bien       | 🟢 Flujo Git profesional        |
-| Testing (pytest, etc.) | ⚪ En progreso| 🟢 Cobertura de tests           |
-
----
-
-### 🔗 Conecta conmigo
+### 🔗 Encuéntrame aquí
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angelamaya/" target="_blank">
@@ -77,19 +40,3 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" />
   </a>
 </p>
-
----
-
-### 🧠 Frase que me representa
-
-> _“La creatividad es la inteligencia divirtiéndose”_ – Albert Einstein
-
----
-
-### 🌍 Próximo objetivo
-
-💡 **Convertir este perfil en una página web interactiva con efectos terminales retro y animaciones personalizadas.**  
-(¡En progreso con GitHub Pages!)
-
----
-
