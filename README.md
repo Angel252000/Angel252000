@@ -9,8 +9,6 @@
 - ⚙️ Trabajo con React Native, FastAPI, Python y más  
 - 🌱 Aprendiendo testing, microservicios y UI/UX
 
----
-
 ### 🛠️ Tecnologías
 
 <p align="center">
