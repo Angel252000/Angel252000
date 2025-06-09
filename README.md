@@ -1,12 +1,17 @@
+<h1 align="center">👨‍💻 Ángel Amaya</h1>
+<p align="center">Estudiante de Ingeniería en Sistemas • UNADECA</p>
+
 ---
 
 ### 🚀 Sobre mí
 
 - 💡 Apasionado por la programación y las interfaces intuitivas  
 - ⚙️ Trabajo con React Native, FastAPI, Python y más  
-- 🌱 Aprendiendo testing, microservicios y UI/UX
+- 🌱 Aprendiendo testing, microservicios y UI/UX  
 
-<h1 align="center">📊 GitHub Overview</h1>
+---
+
+### 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angel252000&show_icons=true&theme=tokyonight&hide=issues" height="150" />
@@ -15,7 +20,7 @@
 
 ---
 
-<h2 align="center">🛠️ Stack Tecnológico</h2>
+### 🛠️ Stack Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,mysql,figma,github,git&theme=light" />
@@ -23,7 +28,7 @@
 
 ---
 
-<h2 align="center">🏆 Trofeos</h2>
+### 🏆 Trofeos
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Angel252000&theme=onestar&no-frame=true&column=6&margin-w=10&margin-h=10" />
@@ -31,7 +36,7 @@
 
 ---
 
-<h2 align="center">📈 Actividad Semanal</h2>
+### 📈 Actividad Semanal
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Angel252000&theme=github-compact&hide_border=true" />
@@ -39,7 +44,7 @@
 
 ---
 
-<h2 align="center">📅 Contribuciones</h2>
+### 📅 Racha de Contribuciones
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel252000&theme=tokyonight&hide_border=true" />
