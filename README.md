@@ -75,12 +75,18 @@
 
 ---
 
+### 🎮 Vibes Gamer 3D
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Ti3pWdT2w1JHq6lS9l/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWphc2p2cnZ1d2hrMHM5OWIzNndzYXN6Z2lqZ3Zjd2RkNmZ6YzVxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD9GxGxW6s7fep6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/xT0GqzZUYpFP5dnH3O/giphy.gif" width="300" />
+</p>
+
+---
+
 ### 🤔 ¿Sabías que…?
 
 - Me gusta trabajar de noche, ¡mis commits a veces llegan a las 2 a.m.! 🌙  
 - Siempre pruebo mi código en al menos 2 navegadores diferentes 🧪  
 - Mis proyectos tienen nombres de constelaciones ✨  
-
----
-
-> “El código es poesía, y yo estoy escribiendo mi mejor verso.” – **Ángel Amaya**
