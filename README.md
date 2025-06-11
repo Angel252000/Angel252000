@@ -70,10 +70,3 @@
 
 ---
 
-### 🎮 Vibes Gamer 3D
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ti3pWdT2w1JHq6lS9l/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/3o7aD9GxGxW6s7fep6/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/xT0GqzZUYpFP5dnH3O/giphy.gif" width="300" />
-</p>
