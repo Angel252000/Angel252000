@@ -30,11 +30,6 @@
 | [🎧 Music App](https://github.com/Angel252000/music-app) | App móvil con reproductor, login y dark mode | React Native, Firebase, Expo |
 | [📋 FastAPI CRUD](https://github.com/Angel252000/fastapi-crud) | API para gestionar estudiantes y asistencia | FastAPI, SQLite, Pydantic |
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Demo App 1"/>
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="400" alt="Demo App 2"/>
-</p>
-
 ---
 
 ### 🏅 Certificaciones y Logros
@@ -79,14 +74,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/Ti3pWdT2w1JHq6lS9l/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWphc2p2cnZ1d2hrMHM5OWIzNndzYXN6Z2lqZ3Zjd2RkNmZ6YzVxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD9GxGxW6s7fep6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o7aD9GxGxW6s7fep6/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/xT0GqzZUYpFP5dnH3O/giphy.gif" width="300" />
 </p>
-
----
-
-### 🤔 ¿Sabías que…?
-
-- Me gusta trabajar de noche, ¡mis commits a veces llegan a las 2 a.m.! 🌙  
-- Siempre pruebo mi código en al menos 2 navegadores diferentes 🧪  
-- Mis proyectos tienen nombres de constelaciones ✨  
