@@ -1,4 +1,4 @@
-### 💻 Ángel Amaya — Full Stack Dev en formación
+### 💻 Full Stack Dev en formación
 
 Desarrollador orientado a crear interfaces móviles intuitivas y APIs robustas. Actualmente construyendo proyectos con React Native y FastAPI mientras exploro el mundo del testing y los microservicios.
 
@@ -23,13 +23,6 @@ Desarrollador orientado a crear interfaces móviles intuitivas y APIs robustas. 
 |---------|-------------|--------------|
 | [🎧 Music App](https://github.com/Angel252000/music-app) | Reproductor móvil con login, dark mode y compatibilidad con Expo Go. | React Native, Firebase, Expo |
 | [📋 FastAPI CRUD](https://github.com/Angel252000/fastapi-crud) | API RESTful para gestionar estudiantes y asistencias. | FastAPI, SQLite, Pydantic |
-
-<!-- Opcional: Añadir imágenes/gifs -->
-<!-- 
-<p align="center">
-  <img src="./assets/musicapp-preview.gif" width="250" />
-</p>
--->
 
 ---
 
