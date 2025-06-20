@@ -1,7 +1,6 @@
 
 
-Desarrollador orientado a crear interfaces móviles intuitivas y APIs robustas. Actualmente construyendo proyectos con React Native y FastAPI mientras exploro el mundo del 
-
+Desarrollador orientado a crear interfaces móviles intuitivas y APIs robustas. Actualmente construyendo proyectos con React Native y FastAPI
 ---
 
 ### 🛠️ Tecnologías que uso
