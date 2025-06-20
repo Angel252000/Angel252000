@@ -1,6 +1,3 @@
-
-
-Desarrollador orientado a crear interfaces móviles intuitivas y APIs robustas.
 ---
 
 ### 🛠️ Tecnologías que uso
