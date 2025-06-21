@@ -1,4 +1,4 @@
-ni modo
+
 ### 🛠️ Tecnologías que uso
 
 **Frontend:**  
