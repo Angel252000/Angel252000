@@ -1,4 +1,4 @@
-o karnal
+o kar
 ### 🛠️ Tecnologías que uso
 
 **Frontend:**  
