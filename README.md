@@ -1,4 +1,4 @@
-so karnal
+o karnal
 ### 🛠️ Tecnologías que uso
 
 **Frontend:**  
