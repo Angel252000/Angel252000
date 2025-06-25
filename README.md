@@ -1,6 +1,6 @@
 
 ### 🛠️ Tecnologías que uso
-
+d
 **Frontend:**  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma&theme=light" />
 
