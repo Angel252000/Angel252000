@@ -1,4 +1,4 @@
- njsss
+ njss
 ### 🛠️ Tecnologías que uso
 
 **Frontend:**  
