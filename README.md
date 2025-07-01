@@ -1,4 +1,4 @@
-3 
+
 ### 🛠️ Tecnologías que uso
 
 **Frontend:**  
