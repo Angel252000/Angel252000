@@ -30,7 +30,7 @@
 
 ---
 
-### 🏆 logros
+### 🏆 logros ooooooooooo yeaaahhhhhhh
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Angel252000&theme=onestar&no-frame=true&column=6&margin-w=10&margin-h=10" />
