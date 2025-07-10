@@ -1,5 +1,5 @@
 
-### 🛠️ Tecnologías que uso
+### 🛠️ Tecnologías que he utilizado 
 
 **Frontend:**  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma&theme=light" />
