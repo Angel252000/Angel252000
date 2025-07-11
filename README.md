@@ -1,4 +1,4 @@
-increible  todo bien
+a bueno increible  todo bien
 ### 🛠️ tecnologías que puedo utilizar 
 
 **Frontend:**  
