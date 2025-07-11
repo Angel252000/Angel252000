@@ -1,4 +1,4 @@
-
+a bueno 
 ### 🛠️ tecnologías que puedo utilizar 
 
 **Frontend:**  
