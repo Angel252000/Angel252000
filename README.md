@@ -1,4 +1,4 @@
-cosas de la bisa holahueno 
+
 ### 🛠️ tecnologías que puedo utilizar 
 
 **Frontend:**  
