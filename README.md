@@ -1,4 +1,4 @@
-wa
+awa
 ### 🛠️ tecnologías que puedo utilizar 
 
 **Frontend:**  
