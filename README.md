@@ -1,4 +1,4 @@
-fdcba
+gfdcba
 ### 🛠️ tecnologías que puedo utilizar 
 
 **Frontend:**  
