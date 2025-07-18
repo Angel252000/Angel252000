@@ -1,4 +1,4 @@
-ba
+cba
 ### 🛠️ tecnologías que puedo utilizar 
 
 **Frontend:**  
