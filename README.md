@@ -1,4 +1,4 @@
-para servir 
+
 ### 🛠️ tecnologías que puedo utilizar 
 
 **Frontend:**  
