@@ -29,7 +29,7 @@
 
 ---
 
-### 🏆 logros ooooooooooo yeaaahhhhhhh
+### 🏆 logros ooooooooooo yeahhhh
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Angel252000&theme=onestar&no-frame=true&column=6&margin-w=10&margin-h=10" />
@@ -64,9 +64,7 @@
   <img src="https://img.shields.io/badge/FastAPI-Master-green?style=flat-square" />
   <img src="https://img.shields.io/badge/UNADECA-Hackathon_2025-important?style=flat-square" />
 </p>
-
 ---
-
 ### 📚 En progreso
 
 Actualmente mejorando mis habilidades en:
