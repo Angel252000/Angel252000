@@ -11,7 +11,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 
 ---
-si claro 
 ### 🚧 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
