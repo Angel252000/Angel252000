@@ -7,7 +7,7 @@
 <!-- ═══════════════════ BANNER NEBULA ROJA ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=8B0000&height=280&section=header&text=ANGEL252000&fontColor=FF0033&fontSize=75&fontAlignY=40&desc=%E2%9A%94%EF%B8%8F%20THE%20FULL-STACK%20SORCERER%20%E2%9A%94%EF%B8%8F&descAlignY=62&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2d2d2d,50:4a4a4a,100:8B0000&height=280&section=header&text=ANGEL252000&fontColor=FF0033&fontSize=75&fontAlignY=40&desc=%E2%9A%94%EF%B8%8F%20THE%20FULL-STACK%20SORCERER%20%E2%9A%94%EF%B8%8F&descAlignY=62&descSize=20&animation=fadeIn" />
 </p>
 
 <!-- Reemplaza este URL con tu propia imagen épica en /assets/banner.png -->
@@ -24,9 +24,9 @@
 <!-- ═══════════════════ HUD DE CUENTA ═══════════════════ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚔️_CLASS-FULL--STACK_MAGE-8B0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🩸_REALM-LATAM-FF0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🔥_STATUS-ONLINE-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⚔️_CLASS-FULL--STACK_MAGE-8B0000?style=for-the-badge&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/🩸_REALM-LATAM-FF0033?style=for-the-badge&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/🔥_STATUS-ONLINE-8B0000?style=for-the-badge&labelColor=2d2d2d" />
   <img src="https://komarev.com/ghpvc/?username=Angel252000&label=SOULS+CLAIMED&color=8B0000&style=for-the-badge" />
 </p>
 
@@ -71,9 +71,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/⚡_MODE-BERSERKER-8B0000?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/⚡_MODE-BERSERKER-8B0000?style=for-the-badge&labelColor=2d2d2d" />
 <br/>
-<img src="https://img.shields.io/badge/☠️_BUGS_SLAIN-1%2C337-FF0033?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/☠️_BUGS_SLAIN-1%2C337-FF0033?style=for-the-badge&labelColor=2d2d2d" />
 
 </td>
 </tr>
@@ -148,10 +148,10 @@
 
 <p align="center">
   <a href="https://github.com/Angel252000/music-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=music-app&theme=radical&border_color=FF0033&bg_color=0D0000&icon_color=FF0033&title_color=FF0033&text_color=ffffff&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=music-app&theme=radical&border_color=FF0033&bg_color=2d2d2d&icon_color=FF0033&title_color=FF0033&text_color=ffffff&show_owner=true" />
   </a>
   <a href="https://github.com/Angel252000/fastapi-crud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=fastapi-crud&theme=radical&border_color=8B0000&bg_color=0D0000&icon_color=8B0000&title_color=FF0033&text_color=ffffff&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=fastapi-crud&theme=radical&border_color=8B0000&bg_color=2d2d2d&icon_color=8B0000&title_color=FF0033&text_color=ffffff&show_owner=true" />
   </a>
 </p>
 
@@ -210,12 +210,12 @@
 ## 📊 `> battle_stats.render`
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Angel252000&show_icons=true&theme=radical&hide_border=true&bg_color=0D0000&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true&count_private=true" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel252000&layout=compact&theme=radical&hide_border=true&bg_color=0D0000&title_color=FF0033&text_color=FFFFFF&langs_count=8" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Angel252000&show_icons=true&theme=radical&hide_border=true&bg_color=2d2d2d&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true&count_private=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel252000&layout=compact&theme=radical&hide_border=true&bg_color=2d2d2d&title_color=FF0033&text_color=FFFFFF&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel252000&theme=radical&hide_border=true&background=0D0000&stroke=FF0033&ring=8B0000&fire=FF0033&currStreakLabel=FF0033&sideLabels=FF0033&dates=ffffff&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel252000&theme=radical&hide_border=true&background=2d2d2d&stroke=FF0033&ring=8B0000&fire=FF0033&currStreakLabel=FF0033&sideLabels=FF0033&dates=ffffff&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 ---
@@ -235,7 +235,7 @@
 ### 🩸 `[ACHIEVEMENT]`
 **React Native Mastery**
 
-<img src="https://img.shields.io/badge/UNLOCKED-8B0000?style=for-the-badge&logo=react&logoColor=FF0033&labelColor=000000" />
+<img src="https://img.shields.io/badge/UNLOCKED-8B0000?style=for-the-badge&logo=react&logoColor=FF0033&labelColor=2d2d2d" />
 
 <sub>+500 XP</sub>
 
@@ -245,7 +245,7 @@
 ### ⚔️ `[ACHIEVEMENT]`
 **Bug Slayer**
 
-<img src="https://img.shields.io/badge/UNLOCKED-8B0000?style=for-the-badge&logo=jest&logoColor=FF0033&labelColor=000000" />
+<img src="https://img.shields.io/badge/UNLOCKED-8B0000?style=for-the-badge&logo=jest&logoColor=FF0033&labelColor=2d2d2d" />
 
 <sub>+750 XP</sub>
 
@@ -255,7 +255,7 @@
 ### 👑 `[ACHIEVEMENT]`
 **Hackathon Warrior**
 
-<img src="https://img.shields.io/badge/UNADECA_2025-8B0000?style=for-the-badge&logo=devpost&logoColor=FF0033&labelColor=000000" />
+<img src="https://img.shields.io/badge/UNADECA_2025-8B0000?style=for-the-badge&logo=devpost&logoColor=FF0033&labelColor=2d2d2d" />
 
 <sub>+1000 XP</sub>
 
@@ -265,7 +265,7 @@
 ### 🔥 `[ACHIEVEMENT]`
 **FastAPI Grandmaster**
 
-<img src="https://img.shields.io/badge/UNLOCKED-8B0000?style=for-the-badge&logo=fastapi&logoColor=FF0033&labelColor=000000" />
+<img src="https://img.shields.io/badge/UNLOCKED-8B0000?style=for-the-badge&logo=fastapi&logoColor=FF0033&labelColor=2d2d2d" />
 
 <sub>+850 XP</sub>
 
@@ -280,7 +280,7 @@
 ## 📜 `> activity_log --weekly`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel252000&bg_color=0D0000&color=FF0033&line=8B0000&point=FFFFFF&area=true&hide_border=true&custom_title=🩸%20Blood%20Trail%20of%20Commits%20🩸" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel252000&bg_color=2d2d2d&color=FF0033&line=FF0033&point=FFFFFF&area=true&hide_border=true&custom_title=🩸%20Blood%20Trail%20of%20Commits%20🩸&title_color=FF0033" />
 </p>
 
 <p align="center">
@@ -325,16 +325,16 @@
 
 <p align="center">
   <a href="mailto:angel.amaya.dev@gmail.com">
-    <img src="https://img.shields.io/badge/📧_SCROLL_OF_EMAIL-8B0000?style=for-the-badge&logoColor=FF0033&labelColor=000000" />
+    <img src="https://img.shields.io/badge/📧_SCROLL_OF_EMAIL-8B0000?style=for-the-badge&logoColor=FF0033&labelColor=2d2d2d" />
   </a>
   <a href="https://github.com/Angel252000">
-    <img src="https://img.shields.io/badge/💀_GITHUB_REALM-8B0000?style=for-the-badge&logo=github&logoColor=FF0033&labelColor=000000" />
+    <img src="https://img.shields.io/badge/💀_GITHUB_REALM-8B0000?style=for-the-badge&logo=github&logoColor=FF0033&labelColor=2d2d2d" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/🔗_LINKEDIN_PACT-8B0000?style=for-the-badge&logo=linkedin&logoColor=FF0033&labelColor=000000" />
+    <img src="https://img.shields.io/badge/🔗_LINKEDIN_PACT-8B0000?style=for-the-badge&logo=linkedin&logoColor=FF0033&labelColor=2d2d2d" />
   </a>
   <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/⚔️_DISCORD_GUILD-8B0000?style=for-the-badge&logo=discord&logoColor=FF0033&labelColor=000000" />
+    <img src="https://img.shields.io/badge/⚔️_DISCORD_GUILD-8B0000?style=for-the-badge&logo=discord&logoColor=FF0033&labelColor=2d2d2d" />
   </a>
 </p>
 
@@ -351,7 +351,7 @@
 <!-- ═══════════════════ FOOTER DARK ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=8B0000&height=130&section=footer&text=%E2%9A%B0%EF%B8%8F%20END%20OF%20TRANSMISSION%20%E2%9A%B0%EF%B8%8F&fontColor=FF0033&fontSize=22&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:4a4a4a,100:2d2d2d&height=130&section=footer&text=%E2%9A%B0%EF%B8%8F%20END%20OF%20TRANSMISSION%20%E2%9A%B0%EF%B8%8F&fontColor=FF0033&fontSize=22&fontAlignY=70" />
 </p>
 
 <p align="center">
