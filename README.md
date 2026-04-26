@@ -308,12 +308,6 @@
 <p align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  ⚠️   WARNING: Summoning a full-stack entity            │
-│      from the depths of the code realm...               │
-│                                                         │
-│  > Connection established. Awaiting your message.       │
-└─────────────────────────────────────────────────────────┘
 ```
 
 </p>
