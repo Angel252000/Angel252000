@@ -1,8 +1,3 @@
-<!--
-  ⚔️  GITHUB PROFILE — DARK REALM EDITION
-  Para: github.com/Angel252000/Angel252000
-  Estética: Dark Fantasy · Blood Red · Terminal RPG
--->
 
 <!-- ═══════════════════ BANNER NEBULA ROJA ═══════════════════ -->
 
