@@ -142,11 +142,20 @@ nombre
 ## 🗺️ `> active_quests.log`
 
 <p align="center">
-  <a href="https://github.com/Angel252000/music-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=music-app&theme=radical&border_color=FF0033&bg_color=2d2d2d&icon_color=FF0033&title_color=FF0033&text_color=ffffff&show_owner=true" />
+  <a href="https://github.com/Angel252000/shenzhen-metro-navigator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=shenzhen-metro-navigator&theme=radical&border_color=FF0033&bg_color=2d2d2d&icon_color=FF0033&title_color=FF0033&text_color=ffffff&show_owner=true" />
   </a>
-  <a href="https://github.com/Angel252000/fastapi-crud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=fastapi-crud&theme=radical&border_color=8B0000&bg_color=2d2d2d&icon_color=8B0000&title_color=FF0033&text_color=ffffff&show_owner=true" />
+  <a href="https://github.com/Angel252000/bioma-landing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=bioma-landing&theme=radical&border_color=8B0000&bg_color=2d2d2d&icon_color=8B0000&title_color=FF0033&text_color=ffffff&show_owner=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Angel252000/Competencia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=Competencia&theme=radical&border_color=8B0000&bg_color=2d2d2d&icon_color=8B0000&title_color=FF0033&text_color=ffffff&show_owner=true" />
+  </a>
+  <a href="https://github.com/Angel252000/Servicio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel252000&repo=Servicio&theme=radical&border_color=FF0033&bg_color=2d2d2d&icon_color=FF0033&title_color=FF0033&text_color=ffffff&show_owner=true" />
   </a>
 </p>
 
@@ -162,38 +171,69 @@ nombre
 <tbody>
 <tr>
 <td>
-  <a href="https://github.com/Angel252000/music-app">
-    <b>🎧 Music App</b>
+  <a href="https://github.com/Angel252000/shenzhen-metro-navigator">
+    <b>🚇 Shenzhen Metro Navigator</b>
   </a>
 </td>
-<td>Forjar reproductor móvil con autenticación y modo oscuro.</td>
+<td>Trazar la ruta mas corta del metro de Shenzhen sin conexion. Dijkstra sobre grafo consciente de linea, 141 estaciones, 23 pruebas.</td>
 <td>
-  <img src="https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react&logoColor=FF0033" />
-  <img src="https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-Dijkstra-000?style=flat-square&logo=graphql&logoColor=8B0000" />
 </td>
 <td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
 </tr>
 <tr>
 <td>
-  <a href="https://github.com/Angel252000/fastapi-crud">
-    <b>📋 FastAPI Grimoire</b>
+  <a href="https://github.com/Angel252000/bioma-landing">
+    <b>🐸 Bioma</b>
   </a>
 </td>
-<td>Invocar API RESTful para controlar estudiantes y asistencias.</td>
+<td>Conjurar cinco criaturas de Costa Rica con primitivas de three.js. Una sola pagina, sin una peticion externa.</td>
 <td>
-  <img src="https://img.shields.io/badge/-FastAPI-000?style=flat-square&logo=fastapi&logoColor=FF0033" />
-  <img src="https://img.shields.io/badge/-SQLite-000?style=flat-square&logo=sqlite&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-three.js-000?style=flat-square&logo=threedotjs&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-WebGL-000?style=flat-square&logo=webgl&logoColor=8B0000" />
 </td>
 <td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
 </tr>
 <tr>
-<td><b>🏨 Hotel Management</b></td>
-<td>Dominar sistema SpringBoot para gestionar el reino hospitalario.</td>
 <td>
-  <img src="https://img.shields.io/badge/-SpringBoot-000?style=flat-square&logo=springboot&logoColor=FF0033" />
-  <img src="https://img.shields.io/badge/-MyBatis-000?style=flat-square&logoColor=FF0033" />
+  <a href="https://github.com/Angel252000/Competencia">
+    <b>🏆 Competencia UNADECA</b>
+  </a>
+</td>
+<td>Levantar la sede de la 1ra Competencia de Programacion. Carrusel, noticias y mapa.</td>
+<td>
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-Supabase-000?style=flat-square&logo=supabase&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/-three.js-000?style=flat-square&logo=threedotjs&logoColor=FF0033" />
+</td>
+<td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
+</tr>
+<tr>
+<td>
+  <a href="https://github.com/Angel252000/PROYECTO-U">
+    <b>🎓 SINAES</b>
+  </a>
+</td>
+<td>Gobernar el proceso de autoevaluacion y acreditacion universitaria. Con el esquema de la base versionado.</td>
+<td>
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-Supabase-000?style=flat-square&logo=supabase&logoColor=8B0000" />
 </td>
 <td><img src="https://img.shields.io/badge/⚔️-IN_PROGRESS-FF0033?style=flat-square" /></td>
+</tr>
+<tr>
+<td>
+  <a href="https://github.com/Angel252000/Servicio">
+    <b>🚗 SpotLight</b>
+  </a>
+</td>
+<td>Comerciar vehiculos electricos de alta gama.</td>
+<td>
+  <img src="https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-Vite-000?style=flat-square&logo=vite&logoColor=8B0000" />
+</td>
+<td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
 </tr>
 </tbody>
 </table>
