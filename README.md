@@ -1,4 +1,3 @@
-nombre
 <!-- ═══════════════════ BANNER NEBULA ROJA ═══════════════════ -->
 
 <p align="center">
