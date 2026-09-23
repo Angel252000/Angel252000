@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=26&duration=2800&pause=700&color=D4AF37&center=true&vCenter=true&width=760&height=60&lines=%E2%9C%A8+Lumos...+iniciando+sesion;%F0%9F%94%91+Alohomora...+desbloqueando+repos;%E2%9A%A1+Expecto+Codum%21;%F0%9F%A6%89+Bienvenido+a+mi+torre%2C+viajero" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="130" />
+</p>
+
 <br/>
 
 ## 📜 Sobre mí
@@ -80,6 +84,18 @@ hasta herramientas offline de planificación de rutas.
 ---
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
+
+## 👾 Defensa de la torre (mis contribuciones)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angel252000/Angel252000/output/commit-invaders-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Angel252000/Angel252000/output/commit-invaders.svg">
+    <img alt="Commit Invaders" src="https://raw.githubusercontent.com/Angel252000/Angel252000/output/commit-invaders.svg" width="100%">
+  </picture>
+</p>
+
+---
 
 ## 🔮 Estadísticas
 
