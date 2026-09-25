@@ -1,22 +1,6 @@
 <!-- ═══════════════════ HUD DE CUENTA ═══════════════════ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚔️_CLASS-FULL--STACK_MAGE-8B0000?style=for-the-badge&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/🩸_REALM-LATAM-FF0033?style=for-the-badge&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/🔥_STATUS-ONLINE-8B0000?style=for-the-badge&labelColor=2d2d2d" />
-  <img src="https://komarev.com/ghpvc/?username=Angel252000&label=SOULS+CLAIMED&color=8B0000&style=for-the-badge" />
-</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="110" />
-</p>
-
-
----
-
-<!-- ═══════════════════ CHARACTER SHEET ═══════════════════ -->
-
-## 💀 `> ./character_sheet.exe`
 
 <table>
 <tr>
