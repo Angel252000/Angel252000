@@ -1,19 +1,3 @@
-</p>
-
-<!-- Reemplaza este URL con tu propia imagen épica en /assets/banner.png -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1462332420958-a05d1e002413?auto=format&fit=crop&w=1920&q=80" width="100%" height="200" style="object-fit:cover;" alt="Dark Realm Banner"/>
-</p>
-
-<!-- ═══════════════════ TITLE TYPING ═══════════════════ -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?<!-- ═══════════════════ BANNER NEBULA ROJA ═══════════════════ -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2d2d2d,50:4a4a4a,100:8B0000&height=280&section=header&text=ANGEL252000&fontColor=FF0033&fontSize=75&fontAlignY=40&desc=%E2%9A%94%EF%B8%8F%20THE%20FULL-STACK%20SORCERER%20%E2%9A%94%EF%B8%8F&descAlignY=62&descSize=20&animation=fadeIn" />
-font=VT323&weight=700&size=42&duration=2500&pause=600&color=FF0033&center=true&vCenter=true&width=900&height=80&lines=%3E+INITIALIZING+DARK+REALM...;%3E+LOADING+COMBAT+PROTOCOLS...;%3E+CODE+IS+MY+BLADE+%E2%9A%94%EF%B8%8F;%3E+BUGS+FEAR+MY+COMMITS+%F0%9F%94%A5;%3E+WELCOME%2C+TRAVELER." />
-</p>
 
 <!-- ═══════════════════ HUD DE CUENTA ═══════════════════ -->
 
