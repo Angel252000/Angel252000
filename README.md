@@ -2,10 +2,6 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚔️_CLASS-FULL--STACK_MAGE-8B0000?style=for-the-badge&labelColor=2d2d2d" />
-
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="110" />
 </p>
 
