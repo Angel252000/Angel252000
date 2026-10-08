@@ -17,7 +17,7 @@
 ╔══════════════════════════════════════╗
 ║  🩸 CHARACTER DATA                   ║
 ╠══════════════════════════════════════╣
-- NAME       : Angel Eduardo Amaya    
+- NAME       : Angel E. Torrento Amaya
 - TITLE      : The Full-Stack Sorcerer
 - LEVEL      : 23                     
 - FACTION    : Code Wielders          
