@@ -254,6 +254,19 @@
 </td>
 <td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
 </tr>
+<tr>
+<td>
+  <a href="https://github.com/Angel252000/clase">
+    <b>📚 AcademiaDB</b>
+  </a>
+</td>
+<td>Registrar estudiantes, materias y calificaciones. Nota final calculada por MySQL en una columna generada.</td>
+<td>
+  <img src="https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql&logoColor=8B0000" />
+</td>
+<td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
+</tr>
 </tbody>
 </table>
 
