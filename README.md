@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="110" />
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="110" alt="" />
 </p>
 
 <!-- ═══════════════════ CHARACTER SHEET ═══════════════════ -->
@@ -291,12 +291,12 @@
 ## 📊 `> battle_stats.render`
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Angel252000&show_icons=true&theme=radical&hide_border=true&bg_color=2d2d2d&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true&count_private=true" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel252000&layout=compact&theme=radical&hide_border=true&bg_color=2d2d2d&title_color=FF0033&text_color=FFFFFF&langs_count=8" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Angel252000&show_icons=true&theme=radical&hide_border=true&bg_color=2d2d2d&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&rank_icon=percentile&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Angel252000" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel252000&layout=compact&theme=radical&hide_border=true&bg_color=2d2d2d&title_color=FF0033&text_color=FFFFFF&langs_count=8" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel252000&theme=radical&hide_border=true&background=2d2d2d&stroke=FF0033&ring=8B0000&fire=FF0033&currStreakLabel=FF0033&sideLabels=FF0033&dates=ffffff&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel252000&theme=radical&hide_border=true&background=2d2d2d&stroke=FF0033&ring=8B0000&fire=FF0033&currStreakLabel=FF0033&sideLabels=FF0033&dates=ffffff&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Racha de contribuciones" />
 </p>
 
 ---
@@ -322,7 +322,7 @@
 ## 🏆 `> achievements_unlocked.list`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angel252000&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Angel252000&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience" alt="Trofeos de GitHub" />
 </p>
 
 <table align="center">
@@ -377,11 +377,11 @@
 ## 📜 `> activity_log --weekly`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel252000&bg_color=2d2d2d&color=FF0033&line=FF0033&point=FFFFFF&area=true&hide_border=true&custom_title=🩸%20Blood%20Trail%20of%20Commits%20🩸&title_color=FF0033" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel252000&bg_color=2d2d2d&color=FF0033&line=FF0033&point=FFFFFF&area=true&hide_border=true&custom_title=🩸%20Blood%20Trail%20of%20Commits%20🩸&title_color=FF0033" alt="Gráfico de actividad" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Angel252000/Angel252000/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Angel252000/Angel252000/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones" />
 </p>
 
 ---
@@ -421,7 +421,7 @@
 <!-- ═══════════════════ QUOTE OF THE DAY ═══════════════════ -->
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false" alt="Cita del día" />
 </p>
 
 ---
@@ -429,7 +429,7 @@
 <!-- ═══════════════════ FOOTER DARK ═══════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:4a4a4a,100:2d2d2d&height=130&section=footer&text=%E2%9A%B0%EF%B8%8F%20END%20OF%20TRANSMISSION%20%E2%9A%B0%EF%B8%8F&fontColor=FF0033&fontSize=22&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:4a4a4a,100:2d2d2d&height=130&section=footer&text=%E2%9A%B0%EF%B8%8F%20END%20OF%20TRANSMISSION%20%E2%9A%B0%EF%B8%8F&fontColor=FF0033&fontSize=22&fontAlignY=70" alt="" />
 </p>
 
 <p align="center">
