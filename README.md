@@ -267,6 +267,20 @@
 </td>
 <td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
 </tr>
+<tr>
+<td>
+  <a href="https://github.com/Angel252000/clase-">
+    <b>🍦 creamy-monorepo</b>
+  </a>
+</td>
+<td>Cliente React + Vite y servidor Express con autenticación y carrito, en un monorepo pnpm.</td>
+<td>
+  <img src="https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=8B0000" />
+  <img src="https://img.shields.io/badge/-pnpm-000?style=flat-square&logo=pnpm&logoColor=FF0033" />
+</td>
+<td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
+</tr>
 </tbody>
 </table>
 
