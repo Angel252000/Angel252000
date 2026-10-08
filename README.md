@@ -5,14 +5,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="110" />
 </p>
 
-
-
-
 <!-- ═══════════════════ CHARACTER SHEET ═══════════════════ -->
 
-## 💀 `> ./character_sheet.exe`<!-- ═══════════════════ HUD DE CUENTA ═══════════════════ -->
-
-
+## 💀 `> ./character_sheet.exe`
 
 <table>
 <tr>
