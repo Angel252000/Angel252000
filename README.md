@@ -241,6 +241,19 @@
 </td>
 <td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
 </tr>
+<tr>
+<td>
+  <a href="https://github.com/Angel252000/negocio">
+    <b>🍝 Basilico Italian Bistro</b>
+  </a>
+</td>
+<td>Landing de restaurante italiano en San Salvador. HTML, CSS y JS puro, menú móvil accesible con teclado.</td>
+<td>
+  <img src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=FF0033" />
+  <img src="https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=8B0000" />
+</td>
+<td><img src="https://img.shields.io/badge/✅-COMPLETE-8B0000?style=flat-square" /></td>
+</tr>
 </tbody>
 </table>
 
