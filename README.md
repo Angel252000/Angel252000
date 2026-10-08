@@ -156,7 +156,7 @@
     <b>🚇 Shenzhen Metro Navigator</b>
   </a>
 </td>
-<td>Trazar la ruta mas corta del metro de Shenzhen sin conexion. Dijkstra sobre grafo consciente de linea, 141 estaciones, 23 pruebas.</td>
+<td>Trazar la ruta más corta del metro de Shenzhen sin conexión. Dijkstra sobre grafo consciente de línea, 141 estaciones, 23 pruebas.</td>
 <td>
   <img src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=FF0033" />
   <img src="https://img.shields.io/badge/-Dijkstra-000?style=flat-square&logo=graphql&logoColor=8B0000" />
@@ -169,7 +169,7 @@
     <b>🐸 Bioma</b>
   </a>
 </td>
-<td>Conjurar cinco criaturas de Costa Rica con primitivas de three.js. Una sola pagina, sin una peticion externa.</td>
+<td>Conjurar cinco criaturas de Costa Rica con primitivas de three.js. Una sola página, sin una petición externa.</td>
 <td>
   <img src="https://img.shields.io/badge/-three.js-000?style=flat-square&logo=threedotjs&logoColor=FF0033" />
   <img src="https://img.shields.io/badge/-WebGL-000?style=flat-square&logo=webgl&logoColor=8B0000" />
@@ -182,7 +182,7 @@
     <b>🏆 Competencia UNADECA</b>
   </a>
 </td>
-<td>Levantar la sede de la 1ra Competencia de Programacion. Carrusel, noticias y mapa.</td>
+<td>Levantar la sede de la 1ra Competencia de Programación. Carrusel, noticias y mapa.</td>
 <td>
   <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=FF0033" />
   <img src="https://img.shields.io/badge/-Supabase-000?style=flat-square&logo=supabase&logoColor=8B0000" />
@@ -196,7 +196,7 @@
     <b>🎓 SINAES</b>
   </a>
 </td>
-<td>Gobernar el proceso de autoevaluacion y acreditacion universitaria. Con el esquema de la base versionado.</td>
+<td>Gobernar el proceso de autoevaluación y acreditación universitaria. Con el esquema de la base versionado.</td>
 <td>
   <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=FF0033" />
   <img src="https://img.shields.io/badge/-Supabase-000?style=flat-square&logo=supabase&logoColor=8B0000" />
@@ -209,7 +209,7 @@
     <b>🎓 Portal de Egresados UNADECA</b>
   </a>
 </td>
-<td>Monorepo con backend y frontend: importacion de Excel, filtros y exportacion CSV.</td>
+<td>Monorepo con backend y frontend: importación de Excel, filtros y exportación CSV.</td>
 <td>
   <img src="https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=FF0033" />
 </td>
@@ -221,7 +221,7 @@
     <b>🚗 SpotLight</b>
   </a>
 </td>
-<td>Comerciar vehiculos electricos de alta gama. Frontend estatico con backend Express y PostgreSQL.</td>
+<td>Comerciar vehículos eléctricos de alta gama. Frontend estatico con backend Express y PostgreSQL.</td>
 <td>
   <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=FF0033" />
   <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=8B0000" />
@@ -234,7 +234,7 @@
     <b>🏨 Hotel App Mobile</b>
   </a>
 </td>
-<td>App movil de hotel construida con Expo y React Native, conectada a Supabase.</td>
+<td>App móvil de hotel construida con Expo y React Native, conectada a Supabase.</td>
 <td>
   <img src="https://img.shields.io/badge/-React_Native-000?style=flat-square&logo=react&logoColor=FF0033" />
   <img src="https://img.shields.io/badge/-Expo-000?style=flat-square&logo=expo&logoColor=8B0000" />
